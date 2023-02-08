@@ -32,7 +32,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ![](/readme/search.png)
 
 ### Not Found Search
-![](/readme/not-found-search)
+![](/readme/not-found-search.png)
 
 ## Article Details
 

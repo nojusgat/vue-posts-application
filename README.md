@@ -5,7 +5,13 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install json-server for backend
+npm install -g json-server
+
+# run json-server
+json-server db.json
+
+# install Vue.js dependencies
 npm install
 
 # serve with hot reload at localhost:8080
